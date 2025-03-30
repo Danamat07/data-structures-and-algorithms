@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Indexed_List",
+					"jsonFile" : "directory-Indexed_List-Debug-90e6b818c7f22d5e6d46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Indexed_List",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Sorted_Bag",
+					"jsonFile" : "directory-Sorted_Bag-Debug-f392de8bc2ebfbb9c08a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Sorted_Bag",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Map",
+					"jsonFile" : "directory-Map-Debug-894c28f60ef3e9529181.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Map",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Sorted_MultiMap",
+					"jsonFile" : "directory-Sorted_MultiMap-Debug-2509fbd6d56a222d7900.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Sorted_MultiMap",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Matrix",
+					"jsonFile" : "directory-Matrix-Debug-b36d5918c082b258ba0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Matrix",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSA"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Indexed_List",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Sorted_Bag",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Map",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Sorted_MultiMap",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Matrix",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Indexed_List::@adf4987ff23170179d0b",
+					"jsonFile" : "target-Indexed_List-Debug-1d727b9f697a0618cb67.json",
+					"name" : "Indexed_List",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Map::@d3a259bce5b3b5170e27",
+					"jsonFile" : "target-Map-Debug-f7efc5ed09cb6f96d9c6.json",
+					"name" : "Map",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Matrix::@8f54aebd265510262963",
+					"jsonFile" : "target-Matrix-Debug-d4f98442e955ac40094a.json",
+					"name" : "Matrix",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Sorted_Bag::@2391542112f9c8c42a19",
+					"jsonFile" : "target-Sorted_Bag-Debug-87ee3706f75a289b8a9c.json",
+					"name" : "Sorted_Bag",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Sorted_MultiMap::@c68e2ca249714901e820",
+					"jsonFile" : "target-Sorted_MultiMap-Debug-3d1276aaca43ebe46917.json",
+					"name" : "Sorted_MultiMap",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dell/CLionProjects/DSA/cmake-build-debug",
+		"source" : "C:/Users/Dell/CLionProjects/DSA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
