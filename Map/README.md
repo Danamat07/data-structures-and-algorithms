@@ -1,4 +1,4 @@
-## Map_DSA ![Languages](https://img.shields.io/badge/Languages-C++-blue)
+## Map - DSA ![Languages](https://img.shields.io/badge/Languages-C++-blue)
 
 ADT Map – represented using a hash table with open addressing and quadratic probing.
 
